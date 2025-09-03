@@ -3,7 +3,6 @@
   "outputDirectory": "build",
   "framework": "create-react-app",
   "installCommand": "npm install",
-  "rootDirectory": ".",
   "rewrites": [
     {
       "source": "/api/(.*)",
